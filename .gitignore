@@ -139,3 +139,34 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+hardhat/artifacts/contracts/MyContract.sol/MyContract.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/utils/math/Math.sol/Math.json
+hardhat/artifacts/@openzeppelin/contracts/utils/math/Math.sol/Math.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/utils/introspection/IERC165.sol/IERC165.json
+hardhat/artifacts/@openzeppelin/contracts/utils/introspection/IERC165.sol/IERC165.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/utils/introspection/ERC165.sol/ERC165.json
+hardhat/artifacts/@openzeppelin/contracts/utils/introspection/ERC165.sol/ERC165.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/utils/Context.sol/Context.json
+hardhat/artifacts/@openzeppelin/contracts/utils/Context.sol/Context.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol/IERC721Receiver.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/IERC721Receiver.sol/IERC721Receiver.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/IERC721.sol/IERC721.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/IERC721.sol/IERC721.dbg.json
+hardhat/cache/solidity-files-cache.json
+hardhat/artifacts/contracts/MyContract.sol/MyContract.json
+hardhat/artifacts/build-info/589d4c8eeee4fe5701f3efaaafa5ba33.json
+hardhat/artifacts/build-info/5f4fa5fd16cbf289d826ef89d897db59.json
+hardhat/artifacts/@openzeppelin/contracts/utils/Strings.sol/Strings.json
+hardhat/artifacts/@openzeppelin/contracts/utils/Strings.sol/Strings.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/utils/math/SignedMath.sol/SignedMath.json
+hardhat/artifacts/@openzeppelin/contracts/utils/math/SignedMath.sol/SignedMath.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol/IERC721Metadata.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/extensions/IERC721Metadata.sol/IERC721Metadata.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/ERC721.sol/ERC721.json
+hardhat/artifacts/@openzeppelin/contracts/interfaces/draft-IERC6093.sol/IERC1155Errors.json
+hardhat/artifacts/@openzeppelin/contracts/token/ERC721/ERC721.sol/ERC721.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/interfaces/draft-IERC6093.sol/IERC1155Errors.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/interfaces/draft-IERC6093.sol/IERC721Errors.json
+hardhat/artifacts/@openzeppelin/contracts/interfaces/draft-IERC6093.sol/IERC20Errors.dbg.json
+hardhat/artifacts/@openzeppelin/contracts/interfaces/draft-IERC6093.sol/IERC20Errors.json
+hardhat/artifacts/@openzeppelin/contracts/interfaces/draft-IERC6093.sol/IERC721Errors.dbg.json
