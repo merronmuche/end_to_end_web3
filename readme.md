@@ -1,10 +1,16 @@
 
 
-to test smart contract in hardhat
+run smart contract in hardhat
+
 Compile Smart Contracts:
-'npx hardhat compile'
+
+```npx hardhat compile```
+
 Run Tests:
-'npx hardhat test'
+
+```npx hardhat test```
+
 Deploy Smart Contracts:
-'npx hardhat run deploy.js'
+
+```npx hardhat run deploy.js```
 
